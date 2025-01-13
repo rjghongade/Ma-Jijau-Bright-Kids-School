@@ -50,7 +50,7 @@ Welcome to the official repository for the **Ma Jijau Bright Kids School** websi
 
 ### Watch the Full Walkthrough
 
-[screen-capture (1).webm]()
+[screen-capture (1).webm](screen-capture.webm)
 
 *Note: Add your demo video in the `assets/videos` folder and provide a video thumbnail.*
 
