@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header img {
+    width: 100px;
+}
+
+h1, h2 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
+
+section {
+    padding: 60px 0;
+}
+
+footer .social-icons a {
+    font-size: 24px;
+}
+
+.rounded-circle {
+    width: 150px;
+    height: 150px;
+}
