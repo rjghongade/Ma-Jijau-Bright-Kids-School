@@ -50,9 +50,7 @@ Welcome to the official repository for the **Ma Jijau Bright Kids School** websi
 
 ### Watch the Full Walkthrough
 
-![Website Demo Video](assets/videos/demo-thumbnail.png)
-
-[Click here to watch the full demo](assets/videos/website-demo.mp4)
+[screen-capture (1).webm]()
 
 *Note: Add your demo video in the `assets/videos` folder and provide a video thumbnail.*
 
